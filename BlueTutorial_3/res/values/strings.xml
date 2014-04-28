@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlueTutorial #3</string>
+	<string name="bt_status">Bluetooth status</string>
+	<string name="bt_turning_on">Turning on…</string>
+	<string name="bt_turning_off">Turning off…</string>
+	<string name="bt_on">ON :)</string>
+	<string name="bt_off">OFF :(</string>
+</resources>
